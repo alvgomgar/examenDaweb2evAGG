@@ -1,1 +1,2 @@
 Este es el examen de 2 evaluacion de Alvaro Gomez Garcia
+He cambiado el fichero desde gitHub
